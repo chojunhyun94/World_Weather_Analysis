@@ -10,8 +10,8 @@ __pycache__/
 config.py
 
 #Adding additional files
-API_pratice.ipynb
-WeatherPy_Pracitce.ipynb
+API_practice.ipynb
+WeatherPy_Practice.ipynb
 random_practice.ipynb
 
 # Distribution / packaging
