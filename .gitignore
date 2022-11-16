@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-#Adding Config.py file
+#Adding Config.py file and Config file in weatherDatabase
 config.py
+weather_Database/config.py
 
 #Adding additional files
 API_practice.ipynb
